@@ -6,10 +6,12 @@
 /rydex/node_modules
 /rydex/.next
 /rydex/.env*
+!/rydex/.env.example
 /rydex/.vercel
 /rydex/*.tsbuildinfo
 
 # Socket server
 /socketServer/node_modules
 /socketServer/.env*
+!/socketServer/.env.example
 /socketServer/*.log
