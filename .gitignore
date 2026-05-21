@@ -1,0 +1,15 @@
+# Shared repo ignores
+.DS_Store
+*.log
+
+# Rydex app
+/rydex/node_modules
+/rydex/.next
+/rydex/.env*
+/rydex/.vercel
+/rydex/*.tsbuildinfo
+
+# Socket server
+/socketServer/node_modules
+/socketServer/.env*
+/socketServer/*.log
